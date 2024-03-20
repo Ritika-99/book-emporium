@@ -1,5 +1,5 @@
 {
-  "name": "Bookshelf Emporium ",
+  "name": "book-emporium",
   "version": "1.0.0",
   "description": "Online Book Store for Upgrad",
   "main": "server.js",
